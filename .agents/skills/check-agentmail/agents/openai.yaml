@@ -1,0 +1,4 @@
+interface:
+  display_name: "AgentMail Inbox Check"
+  short_description: "Starter read-only AgentMail workflow"
+  default_prompt: "Use $check-agentmail to check my AgentMail inbox and summarize unread messages."

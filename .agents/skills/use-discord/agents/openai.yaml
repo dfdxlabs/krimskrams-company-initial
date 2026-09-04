@@ -1,0 +1,4 @@
+interface:
+  display_name: "Discord Bot"
+  short_description: "Starter Discord bot messaging workflow"
+  default_prompt: "Use $use-discord to check the management channel and summarize new messages."

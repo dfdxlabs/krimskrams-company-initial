@@ -1,0 +1,4 @@
+interface:
+  display_name: "Simplified Technical English"
+  short_description: "Starter STE writing skill"
+  default_prompt: "Use $simple-english to write or rewrite this text in Simplified Technical English."
